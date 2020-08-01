@@ -6,7 +6,7 @@ AutoSmelt Enchantment Datapack for MC 1.16+
 Throw exactly 1 pickaxe, 1 furnace, & 32 coal together on the ground to enchant with AutoSmelt.
 
 The AutoSmelt enchantment is not compatible with Fortune or Silk Touch.\
-This can be changed in `pickaxe_data_blacklist.json`
+This can be changed in `data/autosmelt/predicates/pickaxe_data_blacklist.json`
 
 ---
 
