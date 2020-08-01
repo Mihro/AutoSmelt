@@ -1,0 +1,65 @@
+{
+  "condition": "minecraft:alternative",
+  "terms": [
+    {
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "asmelt_drop_wood": {
+          "min": 1,
+          "max": 999
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "asmelt_drop_ston": {
+          "min": 1,
+          "max": 999
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "asmelt_drop_iron": {
+          "min": 1,
+          "max": 999
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "asmelt_drop_gold": {
+          "min": 1,
+          "max": 999
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "asmelt_drop_diam": {
+          "min": 1,
+          "max": 999
+        }
+      }
+    },
+    {
+      "condition": "minecraft:entity_scores",
+      "entity": "this",
+      "scores": {
+        "asmelt_drop_neth": {
+          "min": 1,
+          "max": 999
+        }
+      }
+    }
+  ]
+}
